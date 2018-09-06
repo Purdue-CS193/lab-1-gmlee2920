@@ -1,5 +1,9 @@
 # Garrett Lee's First CS193 Lab
 
+### Favorite Things
+- Learning an actual practical tool for computer science
+- Having class only once per week so my thursdays are nice
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
