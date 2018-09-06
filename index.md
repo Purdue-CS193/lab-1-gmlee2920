@@ -1,7 +1,7 @@
 # Garrett Lee's First CS193 Lab
 
 ### Favorite Things
-- Learning an actual practical tool for computer science
+- Learning how to use github for computer science
 - Having class only once per week so my thursdays are nice
 
 ## Welcome to GitHub Pages
